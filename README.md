@@ -4,16 +4,21 @@ HTML5 Game Embedder
 The HTML5 Game Embedder plugin allows you to embed HTML5 games on your WordPress website, track user statistics, and display games in an interactive slider. It provides a user-friendly interface for managing games, categories, and game details.
 
 Features
+
 Embed HTML5 games using an iframe code
 Categorize games into different categories
 Display game descriptions and thumbnails
 Track user statistics like total play time and number of plays
 Interactive game slider for browsing and selecting games
 Leaderboard to display top users based on play time or number of plays
+
 Installation
+
 Upload the html5-game-embedder folder to the /wp-content/plugins/ directory, or install the plugin through the WordPress plugins screen directly.
 Activate the plugin through the 'Plugins' screen in WordPress.
 Usage
+
+
 Adding a New Game
 Go to the 'Games' menu in the WordPress admin area.
 Click on 'Add New' to create a new game.
